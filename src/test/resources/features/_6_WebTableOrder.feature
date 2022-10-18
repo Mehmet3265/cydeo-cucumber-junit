@@ -1,7 +1,6 @@
 
 Feature:
 
-
   Scenario: User should be able to place order and order seen in the web table
 
    Given user is allready logged in and on order page

@@ -1,4 +1,4 @@
-
+@smoke
 Feature: Wikipedia Search Functionality and Verification
 
 
